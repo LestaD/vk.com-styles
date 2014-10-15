@@ -1,0 +1,55 @@
+/* Шрифт */
+* {
+font-family: Ubuntu !important;
+}
+
+
+/* Круглые аватарки */
+.im_photo_holder a img, .dialogs_photo a img, td.image a img, img.reply_image, a.fw_post_thumb img, a.fw_reply_thumb img, a.ava img, div.fl_l.pv_thumb a img, div.gift_thumb a img, .mv_thumb a img, img.apps_wide_img, .mail_photo a img, div.people_cell a img, div.event_block a img, img.feedback_row_photo, a.bp_thumb img, .wdd_imgs img, .post_image img, .bd_day_events a img, img.reply_form_image, img.im_log_author_chat_thumb, .common_friends a img, img.published_by_photo, div.fl_l.thumb a img, img.feed_post_field_photo, div.fave_link_image img, .fc_msgs_wrap a.fc_msgs_author img.fc_msgs_author, table.like_stats a img, img.feedback_group_photo, img.blst_img, .published_by_photo img, .im_friend img, table.flist_cell td.flist_item_img img, img.settings_bl_photo , div.user_block a img, div.fl_l.group_row_photo a img, div.mail_envelope_photo a img, a.fave_user_image img, a.fave_face img, div.feed_friend_image a img, div.photo .bg_img img, #profile_avatar img, #group_avatar img, .content a im, div.fave_face_name, .chat_tab_img, img.im_user_holder, .pad_ap_img, img.fc_contact_photo {
+border-radius: 50% !important;
+}
+
+
+/* Black smiles and Stickers */
+.emoji_block_cont {
+    background: #222;
+}
+.emoji_expanded .emoji_expand_shadow_top,
+.emoji_expanded .emoji_expand_shadow{
+    background: none !important;
+}
+.emoji_tabs {
+    background: #2f2f2f;
+}
+.emoji_tab:hover {
+    background: #444;
+}
+.emoji_tabs_r_sc, .emoji_tabs_l_sc {
+    background: transparent;
+}
+.emoji_tabs_l_s,
+.emoji_tabs_r_s {
+    background: #444;
+}
+.emoji_tabs_l_s:hover,
+.emoji_tabs_r_s:hover {
+    background: #444;
+}
+.emoji_tab_sel, .emoji_tab_sel:hover {
+    background: #111;
+}
+.emoji_shop:hover {
+    background: #444;
+}
+.emoji_pointer {
+    background: transparent;
+    width: 0;
+    height: 0;
+    border: 7px transparent solid;
+    border-top-color: #2f2f2f;
+    bottom: -126px;
+}
+.emoji_sticker_item:hover,
+.emoji_bg{
+    background: #444;
+}
