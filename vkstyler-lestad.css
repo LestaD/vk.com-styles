@@ -16,7 +16,7 @@ img.blst_img, .published_by_photo img, .im_friend img, table.flist_cell td.flist
 img.settings_bl_photo , div.user_block a img, div.fl_l.group_row_photo a img, div.mail_envelope_photo a img,
 a.fave_user_image img, a.fave_face img, div.feed_friend_image a img, div.photo .bg_img img,
 #profile_avatar img, #group_avatar img, .content a im, div.fave_face_name, .chat_tab_img, img.im_user_holder,
-.pad_ap_img, img.fc_contact_photo, .audio_friend_photo {
+.pad_ap_img, img.fc_contact_photo, .audio_friend_photo, .search_item_img {
     border-radius: 50% !important;
 }
 
